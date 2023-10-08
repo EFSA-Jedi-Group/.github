@@ -5,12 +5,8 @@ The following projects were developed in the *Enterprise Data Science and Busine
 Find me us Linkedin: 
 
 André Oliveira [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrepsoliveira/)
-<a href="https://www.linkedin.com/in/gon%C3%A7aloeloy/" style="text-decoration: none;">
-  <div style="background-color: #0D76A8; color: white; padding: 5px 10px; border-radius: 4px; display: inline-block;">
-    Gonçalo Eloy
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn" style="vertical-align: middle; margin-left: 5px;" />
-  </div>
-</a>
+
+Gonçalo Eloy [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gon%C3%A7aloeloy/)
 
 
 *MACHINE LEARNING*
