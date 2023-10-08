@@ -2,7 +2,7 @@
 
 The following projects were developed in the *Enterprise Data Science and Business Analytics* Post-Graduation at NOVA Information Management School - University of Lisbon!
 
-Find me us Linkedin: 
+Find us Linkedin: 
 
 André Oliveira [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrepsoliveira/)
 
